@@ -1,4 +1,6 @@
-Application Screenshots
+**Application Screenshots**
+
+
 ![WhatsApp Image 2024-09-26 at 16 13 42_44c307bf](https://github.com/user-attachments/assets/e2c03d8f-fbbb-456d-a934-8348ea7c3c3f)
 ![WhatsApp Image 2024-09-26 at 16 13 43_758aa810](https://github.com/user-attachments/assets/bb7c6c09-4437-4580-86d2-c1f88cdc03c6)
 ![WhatsApp Image 2024-09-26 at 16 13 43_36065429](https://github.com/user-attachments/assets/cfec5ef6-0a33-4687-b060-9ac30acf10ae)
